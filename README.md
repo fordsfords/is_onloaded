@@ -1,6 +1,10 @@
 # is_onloaded
 Function to determine if the calling process is running under Onload.
 
+Thanks to [Rost](https://stackoverflow.com/users/1599260/rost)
+for their [2017 Stackoverflow answer](https://stackoverflow.com/a/41651881)
+that led to this code.
+
 # License
 
 I want there to be NO barriers to using this code, so I am releasing it to the public domain.  But "public domain" does not have an internationally agreed upon definition, so I use CC0:
